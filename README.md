@@ -22,10 +22,6 @@
 </h3>
 <body>
         <p>QA| Manual-Automatic| Open Source</p>
-        <div class="social-links">
-            <a href="https://github.com/yourprofile" target="_blank"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://twitter.com/yourprofile" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
         <h4>Мои проекты:</h4>
         <ul class="projects">
