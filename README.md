@@ -3,16 +3,10 @@
 
 <h2>I'm begginer QA engineer, I'm 25 years old</h>
 
-
-
-- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
-- 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
-- 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
-- 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)
-- 💬 Ask me about **WordPress, PHP, and Career**
-- 📫 How to reach me **https://felipeelia.dev/contact/**
-- ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
-
+- 🖥 Learing DevOps
+- 👨‍🎓 Сompleted a course "Genius.space"
+- 🤝 Ready to cooperate
+- ⚡ Fun fact - I ❤️ 🎮 / 🚲
 
 Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
 <body>
