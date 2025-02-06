@@ -21,7 +21,8 @@
 
 </h3>
 <body>
-        <p>QA| Manual-Automatic| Open Source</p> <a href="#" target="_blank">
+        <p>QA| Manual-Automatic| Open Source</p>
+   Technology stack <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </a>
 <a href="#" target="_blank">
