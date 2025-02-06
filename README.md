@@ -2,11 +2,12 @@
 <h1>Whats up, i'm Daniel</h1>
 
 <h2>I'm begginer QA engineer, I'm 25 years old</h>
-
+<h3
 - 🖥 Learing DevOps
 - 👨‍🎓 Сompleted a course "Genius.space"
 - 🤝 Ready to cooperate
 - ⚡ Fun fact - I ❤️ 🎮 / 🚲
+</h3>
 
 Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
 <body>
