@@ -2,13 +2,11 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-### Hi there 👋, my name is Daniil
+Hi there 👋, my name is Daniil
 
-    
 I'm begginer QA engineer, I'm 25 years old
 
-<p><img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif" />
-/p>
+
 
 Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
 <body>
@@ -26,7 +24,8 @@ Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
             <li>🚀 <a href="#">Awesome Project</a></li>
             <li>📌 <a href="#">Portfolio Website</a></li>
             <li>🛠 <a href="#">Open Source Contribution</a></li>
-        </ul>
+
+            <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif" />        </ul>
     </div>
 </body>
 </html> 
