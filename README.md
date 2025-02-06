@@ -10,19 +10,14 @@
 
 <h3>My contact
 <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="30" height="30" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" width="30" height="30" alt="Twitter">
-</a>
-
-
-
-
-
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a> 
 </h3>
 
 <body>
