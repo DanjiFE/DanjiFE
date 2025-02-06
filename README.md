@@ -44,19 +44,17 @@
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Charles_Proxy-2D3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Charles Proxy">
 </a>
-/h4>
-       
-       
-       
+           
   </div>
         <h4>Мои проекты:</h4>
         <ul class="projects">
             <li>🚀 <a href="#">Awesome Project</a></li>
             <li>📌 <a href="#">Portfolio Website</a></li>
-            <li>🛠 <a href="#">Open Source Contribution</a></li>
+            <li>🛠 <a href="#">Open Source Contribution</a></li>  
      </ul>
     </div>
-</body>
+    <img src="(https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif)"
+        </body>
 </html> 
 
 
