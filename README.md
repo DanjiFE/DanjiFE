@@ -50,7 +50,8 @@
             <li>📌 <a href="#">Portfolio Website</a></li>
             <li>🛠 <a href="#">Open Source Contribution</a></li> 
      </ul>          
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+    <div
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanjiFe&show_icons=true&theme=radical)</div>
 </div> 
 <p align="center">
   <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif?raw=true" width="400">
