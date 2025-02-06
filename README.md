@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-Hi there 👋, my name is Daniil
+Whats up, i'm Daniel
 
-I'm begginer QA engineer, I'm 25 years old
+<h>I'm begginer QA engineer, I'm 25 years old</h>
 
 
 
