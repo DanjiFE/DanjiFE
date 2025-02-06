@@ -52,9 +52,8 @@
             <li>📌 <a href="#">Portfolio Website</a></li>
             <li>🛠 <a href="#">Open Source Contribution</a></li>  
      </ul>
-    </div>
-    <img src="(https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif)"
-        </body>
+    </div> <img src="[
+](https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif) alt=gif">        </body>
 </html> 
 
 
