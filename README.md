@@ -1,5 +1,5 @@
 
-<h1>Whats up, i'm Daniel</h1>
+<h1>Whats up, i'm Daniel!</h1>
 
 <h2>I'm begginer QA engineer, I'm 25 years old</h2>
 
@@ -8,12 +8,24 @@
 - 🤝 Ready to cooperate
 - ⚡ Fun fact - I ❤️ 🎮 / 🚲
 
+<h3>My contact
+<a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="30" height="30" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" width="30" height="30" alt="Twitter">
+</a>
 
 
-Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
+
+
+
+</h3>
+
 <body>
-    <div class="profile-card">
-        <h2>Даниил</h2>
         <p>QA| Manual-Automatic| Open Source</p>
         <div class="social-links">
             <a href="https://github.com/yourprofile" target="_blank"><i class="fab fa-github"></i></a>
