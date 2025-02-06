@@ -52,7 +52,10 @@
             <li>🛠 <a href="#">Open Source Contribution</a></li> 
      </ul>          
 </div> 
- ![Gif](https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif</body>
+<p align="center">
+  <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif?raw=true" width="400">
+</p>
+
 </html> 
 
 
