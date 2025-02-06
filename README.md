@@ -22,7 +22,8 @@
 </h3>
 <body>
         <p>QA| Manual-Automatic| Open Source</p>
-   Technology stack <a href="#" target="_blank">
+        Technology Stack
+        <h4><a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </a>
 <a href="#" target="_blank">
@@ -38,8 +39,16 @@
     <img src="https://img.shields.io/badge/TestRail-24A148?style=for-the-badge&logo=testcafe&logoColor=white" alt="TestRail">
 </a>
 <a href="#" target="_blank">
-    <img src="
-        </div>
+    <img src="https://img.shields.io/badge/ChromeDevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Charles_Proxy-2D3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Charles Proxy">
+</a>
+/h4>
+       
+       
+       
+  </div>
         <h4>Мои проекты:</h4>
         <ul class="projects">
             <li>🚀 <a href="#">Awesome Project</a></li>
