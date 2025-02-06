@@ -1,11 +1,17 @@
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-Whats up, i'm Daniel
+<h1>Whats up, i'm Daniel</h1>
 
-<h>I'm begginer QA engineer, I'm 25 years old</h>
+<h2>I'm begginer QA engineer, I'm 25 years old</h>
 
+
+
+- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
+- 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
+- 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
+- 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)
+- 💬 Ask me about **WordPress, PHP, and Career**
+- 📫 How to reach me **https://felipeelia.dev/contact/**
+- ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
 
 
 Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
