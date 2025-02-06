@@ -11,9 +11,8 @@ I'm begginer QA engineer, I'm 25 years old
 Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
 <body>
     <div class="profile-card">
-        <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="Аватар">
         <h2>Даниил</h2>
-        <p>Frontend | Backend | Open Source</p>
+        <p>QA| Manual-Automatic| Open Source</p>
         <div class="social-links">
             <a href="https://github.com/yourprofile" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -24,8 +23,7 @@ Skills: Jira/Figma/POSTMAN/API/Testrail/ChatGPT 😄</head>
             <li>🚀 <a href="#">Awesome Project</a></li>
             <li>📌 <a href="#">Portfolio Website</a></li>
             <li>🛠 <a href="#">Open Source Contribution</a></li>
-
-            <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif" />        </ul>
+     </ul>
     </div>
 </body>
 </html> 
