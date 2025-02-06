@@ -50,10 +50,10 @@
         <ul class="projects">
             <li>🚀 <a href="#">Awesome Project</a></li>
             <li>📌 <a href="#">Portfolio Website</a></li>
-            <li>🛠 <a href="#">Open Source Contribution</a></li>  
+            <li>🛠 <a href="#">Open Source Contribution</a></li>  ![GIF Animation](https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif?raw=true)
      </ul>
-    </div> <img src="[
-](https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif) alt=gif">        </body>
+    </div>
+    </body>
 </html> 
 
 
