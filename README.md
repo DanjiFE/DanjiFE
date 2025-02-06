@@ -18,7 +18,6 @@
 <a href="https://t.me/Diii23" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-
 </h3>
 <body>
         <p>QA| Manual-Automatic| Open Source</p>
@@ -51,6 +50,7 @@
             <li>📌 <a href="#">Portfolio Website</a></li>
             <li>🛠 <a href="#">Open Source Contribution</a></li> 
      </ul>          
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 </div> 
 <p align="center">
   <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif?raw=true" width="400">
