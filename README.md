@@ -9,13 +9,12 @@
 - ⚡ Fun fact - I ❤️ 🎮 / 🚲
 
 <h3>My contact
-</a>
-<a href="["](https://www.linkedin.com/in/daniil-zhukov-350a6b216/) target="_blank">
+
+<a href="https://www.linkedin.com/in/daniil-zhukov-350a6b216/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-</a> 
-</h3>
 
+</h3>
 <body>
         <p>QA| Manual-Automatic| Open Source</p>
         <div class="social-links">
