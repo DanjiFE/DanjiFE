@@ -44,11 +44,6 @@
     <img src="https://img.shields.io/badge/Charles_Proxy-2D3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Charles Proxy">
 </a>
   </div>
-      
-     </ul>          
-    <div
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanjiFe&show_icons=true&theme=radical)</div>
-</div> 
 <p align="center">
   <img src="https://github.com/DanjiFE/DanjiFE/blob/main/6DMX.gif?raw=true" width="400">
 </p>
