@@ -20,7 +20,7 @@
 </a>
 </h3>
 <body>
-        <p>QA| Manual-Automatic| Open Source</p>
+        <p>QA| Manual-Automatic|</p>
         Technology Stack
         <h4><a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
@@ -44,11 +44,7 @@
     <img src="https://img.shields.io/badge/Charles_Proxy-2D3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Charles Proxy">
 </a>
   </div>
-        <h4>Мои проекты:</h4>
-        <ul class="projects">
-            <li>🚀 <a href="#">Awesome Project</a></li>
-            <li>📌 <a href="#">Portfolio Website</a></li>
-            <li>🛠 <a href="#">Open Source Contribution</a></li> 
+      
      </ul>          
     <div
         ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanjiFe&show_icons=true&theme=radical)</div>
